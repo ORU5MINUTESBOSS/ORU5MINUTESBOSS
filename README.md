@@ -1,8 +1,8 @@
 - 👋 Hi, I’m ARAVIND R
 - 👀 I’m interested in web designing.
-- 🌱 I’m currently learning Engineering 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently pursuing B.E MECHANICAL ENGINEERING in Velammal College of Engineering and Technology, Madurai. 
+- 💞️ I'm familiar with HTML,CSS,C,PYTHON.
+- 📫 How to reach me aravindyoung555@gmail.com
 
 <!---
 ORU5MINUTESBOSS/ORU5MINUTESBOSS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
